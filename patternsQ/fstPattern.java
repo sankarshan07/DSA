@@ -1,2 +1,11 @@
-package DSA.patternsQ;public class fstPattern {
+package DSA.patternsQ;
+
+public class fstPattern {
+    public static void main(String[] args) {
+//        *
+//        **
+//        ***
+//        ****
+        
+    }
 }
